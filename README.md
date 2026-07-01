@@ -6,7 +6,7 @@
 
 ## 1. Quem somos
 
-**[Nome do Escritório]**
+**Penido Castro Advocacia**
 CNPJ: [CNPJ]
 Endereço: [endereço completo]
 
@@ -156,7 +156,7 @@ Esta política é regida pela legislação brasileira, em especial:
 - **Lei 8.078/1990** (Código de Defesa do Consumidor)
 - **Lei 10.741/2003** (Estatuto do Idoso — aplicável a benefícios previdenciários)
 
-**Foro:** [Cidade/Estado]
+**Foro:** [Salvador/Estado]
 
 ---
 
