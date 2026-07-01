@@ -155,7 +155,7 @@ Esta política é regida pela legislação brasileira, em especial:
 - **Lei 8.078/1990** (Código de Defesa do Consumidor)
 - **Lei 10.741/2003** (Estatuto do Idoso — aplicável a benefícios previdenciários)
 
-**Foro:** [Salvador/Estado]
+**Foro:** [Salvador/BA]
 
 ---
 
