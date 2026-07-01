@@ -7,12 +7,11 @@
 ## 1. Quem somos
 
 **Penido Castro Advocacia**
-CNPJ: [CNPJ]
-Endereço: [endereço completo]
+CNPJ: 66.104.893/0001-23
+Endereço: Av. Tancredo Neves, 2539 - Edifício CEO Salvador, Caminho das Árvores, Salvador - BA.
 
-**Encarregado (DPO):** [Nome do DPO]
-**E-mail:** [email do DPO]
-**Telefone:** [telefone]
+**E-mail:** atendimento@penidocastro.com
+**Telefone:** +55 71 9358-9436
 
 ---
 
@@ -99,8 +98,8 @@ Nos termos da Lei 13.709/2018 (LGPD), você tem direito a:
 7. **Revogar** o consentimento a qualquer momento
 8. **Revisão** de decisões automatizadas que afetem seus interesses
 
-**Para exercer qualquer um desses direitos, entre em contato com nosso Encarregado (DPO):**
-E-mail: [email do DPO]
+**Para exercer qualquer um desses direitos, entre em contato:**
+E-mail: atendimento@penidocastro.com
 
 Responderemos em até **15 dias** conforme previsto na LGPD.
 
@@ -162,9 +161,8 @@ Esta política é regida pela legislação brasileira, em especial:
 
 ## 13. Contato
 
-**Encarregado (DPO):** [Nome]
-**E-mail:** [email]
-**Telefone:** [telefone]
+**E-mail:** atendimento@penidocastro.com
+**Telefone:** +55 71 9358-9436
 
 Se você acredita que seus direitos de privacidade foram violados, você também pode contatar a **Autoridade Nacional de Proteção de Dados (ANPD):**
 https://www.gov.br/anpd
